@@ -1,0 +1,24 @@
+//$primary-color: #FBFF22;
+
+// Обнуление стилей по-умолчанию
+body, * {
+    margin: 0;
+    padding: 0;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1440px;
+    padding: 0 60px;
+}
+// END__Обнуление стилей по-умолчанию
